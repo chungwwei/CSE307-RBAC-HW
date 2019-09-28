@@ -1,5 +1,4 @@
 (* ChuangWei Ma*)
-(* 110862479 *)
 (* CSE307 HW_2*)
 
 val User = "Ellen"
